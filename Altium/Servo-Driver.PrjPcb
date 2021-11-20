@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AWQKHIKC
 
 [Document3]
-DocumentPath=SAMD21.SchDoc
+DocumentPath=RP2040.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=101
 AnnotationIndexControlEnabled=1
